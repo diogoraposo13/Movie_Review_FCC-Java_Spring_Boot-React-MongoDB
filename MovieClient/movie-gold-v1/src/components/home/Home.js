@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Hero from '../hero/Hero';
 
 export const Home = ({movies}) => {
   return (
-    <div>Welcome!!!</div>
+    <Hero movies = {movies} />
   )
 }
 

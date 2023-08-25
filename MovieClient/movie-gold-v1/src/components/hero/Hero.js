@@ -11,7 +11,7 @@ const Hero = ({movies}) => {
                 movies.map((movie) => {
                     return(
                         <Paper>
-                            <div className='movi-card-container'>
+                            <div className='movie-card-container'>
                                 <div className='movie-card'>
                                     <div className='movie-detail'>
                                         <div className='movie-poster'>
