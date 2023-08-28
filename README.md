@@ -5,7 +5,10 @@ Welcome to my practice repository for full stack development using Java Spring B
 In this hands-on learning experience, I followed the tutorial to build a web application that employs the following technologies:
 
 Frontend: React
+
 Backend: Java Spring Boot
+
 Database: MongoDB
+
 
 Link of tutorial:https://www.youtube.com/watch?v=5PdEmeopJVQ
